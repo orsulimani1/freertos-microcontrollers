@@ -117,8 +117,8 @@ int main(void)
   MX_USART2_UART_Init();
   MX_I2C1_Init();
   /* USER CODE BEGIN 2 */
-//  rtc_protocol_main();
-//  logger_init();
+  rtc_protocol_main();
+  logger_init();
   // Start FreeRTOS scheduler
   /* USER CODE END 2 */
 

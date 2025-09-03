@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "rtc_driver_api.h": "c"
+    }
+}

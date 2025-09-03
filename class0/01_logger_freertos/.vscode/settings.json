@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "rtc_driver_api.h": "c"
+    },
+    "cmake.sourceDirectory": "C:/src/freertos-microcontrollers/class0/01_logger_FREE_RTOS_manual/00_logger_freertos/Core/FreeRTOS/include"
+}

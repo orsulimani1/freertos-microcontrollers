@@ -27,6 +27,7 @@
 "./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_exti.o"
 "./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rcc.o"
 "./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_utils.o"
+"./Drivers/custom_drivers/common/itm_debug.o"
 "./Drivers/custom_drivers/rtc/rtc_driver.o"
 "./Drivers/custom_drivers/rtc/rtc_driver_api.o"
 "./Drivers/custom_drivers/rtc/rtc_internal.o"
